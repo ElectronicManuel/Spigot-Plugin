@@ -1,0 +1,4 @@
+name: PLUGINNAME
+version: 0.0.1
+author: Reverser
+main: me.reverser.PLUGINNAME.main.Main

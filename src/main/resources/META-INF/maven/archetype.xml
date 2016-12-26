@@ -1,0 +1,11 @@
+<archetype>
+  <id>Spigot-Plugin</id>
+  <allowPartial>true</allowPartial>
+  <sources>
+    <source>src/main/java/PLUGINNAME/main/Main.java</source>
+  </sources>
+  <resources>
+  	<resource>src/main/java/config.yml</resource>
+  	<resource>src/main/java/plugin.yml</resource>
+  </resources>
+</archetype>
